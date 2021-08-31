@@ -6,19 +6,19 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'https://hugeota.d.miui.com/V12.5.6.0.RJACNXM/miui_CMI_V12.5.6.0.RJACNXM_757110f985_11.0.zip'
+        default: 'https://download.c.realme.com/osupdate/RMX2001_11_OTA_0650_all_3MdwmJbU9cyL.ozip'
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
-        default: 'miui_ARES_V12.5.8.0.RKJCNXM_d866a4bd8b_11.0.zip'
+        default: 'realme6.zip'
       OS_TYPE:
         description: 'OS_TYPE'
         required: true
-        default: 'miui'
+        default: 'Generic'
       REPACK_NAME:
         description: 'REPACK_NAME'
         required: true
-        default: 'K40GMIUI.zip'
+        default: 'realme6rui1.0.zip'
 
 
 
